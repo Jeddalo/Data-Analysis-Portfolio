@@ -11,6 +11,8 @@
 # SQL
 | Project Link | Area | Project Description | 
 |---|---|---|
+|[E-commerce Case Study](https://github.com/Jeddalo/JedSQL/blob/main/E-Commerce%20Project.md) | Data Exploration, Funnel Analysis | This project
+|[Medical-Appointment-No-Show-Analysis](https://github.com/Jeddalo/JedSQL/blob/main/Medical-Appointment-No-Shows-Projects.md) | Health Analysis |
 
 ***
 
@@ -23,6 +25,7 @@
 # Excel
 | Project Link | Area | Project Description | 
 |---|---|---|
+|[Salary Dashboard Project](https://github.com/Jeddalo/Excel_Guided_Project) | Charts, Functions and Formulas, Data Validation | This project
 
 ***
 
