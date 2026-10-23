@@ -38,5 +38,5 @@
 # Data Warehouse
 | Project Link | Area | Project Description | 
 |---|---|---|
-
+|[Data Warehousing Project](https://github.com/Jeddalo/jed-sql-data-warehouse-project) | Data Architecture, SQL, ETL | This
 ***
