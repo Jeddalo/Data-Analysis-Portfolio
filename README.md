@@ -19,6 +19,7 @@
 # Python
 | Project Link | Area | Project Description | 
 |---|---|---|
+|Automobile Project | Python, Jupyter Notebook, VS Code | 
 
 ***
 
@@ -32,6 +33,7 @@
 # Visualization
 | Project Link | Area | Project Description | 
 |---|---|---|
+|Blinkit Dashboard | PowerBI, PowerQuery, DAX | This
 
 ***
 
