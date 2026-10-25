@@ -33,7 +33,7 @@
 # Visualization
 | Project Link | Area | Project Description | 
 |---|---|---|
-|[Blinkit Dashboard](https://github.com/Jeddalo/Jed-Projects/blob/main/blinkit%20data/README.md) | PowerBI, PowerQuery, DAX | This
+|[Blinkit Dashboard](https://github.com/Jeddalo/Jed-Projects/blob/main/blinkit%20data/README.md) | PowerBI, PowerQuery, DAX | This projects builds a dashboard and generates report showcasing Key important metrics for business insight.
 
 ***
 
