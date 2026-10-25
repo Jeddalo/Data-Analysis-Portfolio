@@ -19,7 +19,7 @@
 # Python
 | Project Link | Area | Project Description | 
 |---|---|---|
-|Automobile Project | Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical quetions to clean, filter and extract insight from a car datset
+|[Automobile Project](https://github.com/Jeddalo/Jed-Projects/blob/main/Automobile%20project.ipynb)| Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical quetions to clean, filter and extract insight from a car datset
 
 ***
 
