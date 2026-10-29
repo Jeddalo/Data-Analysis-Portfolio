@@ -19,14 +19,14 @@
 # Python
 | Project Link | Area | Project Description | 
 |---|---|---|
-|[Automobile Project](https://github.com/Jeddalo/Jed-Projects/blob/main/Automobile%20project.ipynb)| Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical quetions to clean, filter and extract insight from a car datset
+|[Automobile Project](https://github.com/Jeddalo/Jed-Projects/blob/main/Automobile%20project.ipynb)| Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical questions to clean, filter and extract insight from a car dataset
 
 ***
 
 # Excel
 | Project Link | Area | Project Description | 
 |---|---|---|
-|[Salary Dashboard Project](https://github.com/Jeddalo/Excel_Guided_Project) | Charts, Functions and Formulas, Data Validation | This project showxases excel skills by creating an interactive and visual report to analyze salary data.
+|[Salary Dashboard Project](https://github.com/Jeddalo/Excel_Guided_Project) | Charts, Functions and Formulas, Data Validation | This project showcases excel skills by creating an interactive and visual report to analyze salary data.
 
 ***
 
