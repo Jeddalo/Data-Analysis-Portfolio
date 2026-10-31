@@ -1,4 +1,8 @@
 # Data Analyst Portfolio Projects
+## Overview
+This repository is the central hub of my data analytics portfolio.
+
+The portfolio demonstrates reproducible data analysis, business reporting, dashboard development and data engineering workflows.
 ## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
