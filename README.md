@@ -23,7 +23,7 @@ The portfolio demonstrates reproducible data analysis, business reporting, dashb
 # Python
 | Project Link | Area | Project Description | 
 |---|---|---|
-|[Automobile Project](https://github.com/Jeddalo/Jed-Projects/blob/main/Automobile%20project.ipynb)| Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical questions to clean, filter and extract insight from a car dataset
+|[Automobile Analysis](https://github.com/Jeddalo/Jed-Projects/blob/main/Automobile%20project.ipynb)| Python, Jupyter Notebook, VS Code | Data analysis using Pandas, I answer eight specific analytical questions to clean, filter and extract insight from a car dataset
 
 ***
 
